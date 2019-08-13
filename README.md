@@ -1,4 +1,4 @@
 # Strapi application
 
-A quick description of your strapi application
+Portfolio for Wouter Bloemen, coach and maker at wouterbloemen.be
 # strapi-wouter
